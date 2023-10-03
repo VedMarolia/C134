@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: rgb(85, 163, 194);
+color: white;
+padding: 10px;
+}
+
+#status , #quantity , #start
+{
+font-size: 18px;
+margin: 5px;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    border: dotted aqua;
+    border-radius: 15px;
+    margin-top: 65px;
+}
